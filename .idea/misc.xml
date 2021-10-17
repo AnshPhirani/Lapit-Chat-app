@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/anshp/AndroidStudioProjects/LapitChat/app/src/main/res/drawable/avatar.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/anshp/AndroidStudioProjects/LapitChat/app/src/main/res/layout/activity_login.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/anshp/AndroidStudioProjects/LapitChat/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/anshp/AndroidStudioProjects/LapitChat/app/src/main/res/layout/activity_profile.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/anshp/AndroidStudioProjects/LapitChat/app/src/main/res/layout/activity_register.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/anshp/AndroidStudioProjects/LapitChat/app/src/main/res/layout/activity_settings.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/anshp/AndroidStudioProjects/LapitChat/app/src/main/res/layout/activity_start.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/anshp/AndroidStudioProjects/LapitChat/app/src/main/res/layout/activity_status.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/anshp/AndroidStudioProjects/LapitChat/app/src/main/res/layout/activity_users.xml" value="0.22" />
+        <entry key="..\:/Users/anshp/AndroidStudioProjects/LapitChat/app/src/main/res/layout/app_bar_layout.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/anshp/AndroidStudioProjects/LapitChat/app/src/main/res/layout/fragment_chats.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/anshp/AndroidStudioProjects/LapitChat/app/src/main/res/layout/fragment_friends.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/anshp/AndroidStudioProjects/LapitChat/app/src/main/res/layout/fragment_requests.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/anshp/AndroidStudioProjects/LapitChat/app/src/main/res/layout/user_single_layout.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/anshp/AndroidStudioProjects/LapitChat/app/src/main/res/menu/main_menu.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/anshp/AndroidStudioProjects/LapitChat/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.19166666666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

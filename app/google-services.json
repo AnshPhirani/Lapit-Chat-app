@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "749429174328",
+    "project_id": "lapitchat-ansh",
+    "storage_bucket": "lapitchat-ansh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749429174328:android:961d46d66ce5c86e2176cd",
+        "android_client_info": {
+          "package_name": "com.example.lapitchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749429174328-p2664jm7cukpev066t4sgfqntq6ve0dp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXS2FLS8lD60VT206aGqX7ARLP7dn5l_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749429174328-p2664jm7cukpev066t4sgfqntq6ve0dp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
